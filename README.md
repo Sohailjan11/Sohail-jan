@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/SohailXpblixtsohail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xpblixtsohail" height="30" width="40" /></a>
-<a href="https://instagram.com/xpblixtsohail-official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xpblixtsohail" height="30" width="40" /></a>
+<a href="https://fb.com/[SohailXpblixtsohail](https://www.facebook.com/profile.php?id=61587613846858)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xpblixtsohail" height="30" width="40" /></a>
+<a href="https://instagram.com/xpblixtsohail-official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[xpblixtsohail](https://www.instagram.com/xpblixtsohail__official_/?hl=en)" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohailjan11&show_icons=true&locale=en&layout=compact" alt="sohailjan11" /></p>
